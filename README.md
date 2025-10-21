@@ -67,8 +67,3 @@ The objective was to analyze the electric vehicle (EV) landscape to evaluate mar
 <img width="1566" height="680" alt="image" src="https://github.com/user-attachments/assets/62cde6fe-292e-4733-9026-5e9b50ac12d3" />
 
 
----
-
-### Author  
-Data Analysis & Visualization using **Excel + Tableau**  
-
