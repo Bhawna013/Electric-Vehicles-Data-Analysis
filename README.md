@@ -61,7 +61,7 @@ Before building the dashboard, the dataset was reviewed for missing values, inco
 Rather than displaying every available field, only business-relevant KPIs were selected.
 
 1. **Total Registered Vehicles**
-This KPI measures the overall size of the EV market and serves as the primary indicator of adoption.
+- This KPI measures the overall size of the EV market and serves as the primary indicator of adoption.
 
 **Business Value**
     - Estimates market demand.
@@ -69,9 +69,8 @@ This KPI measures the overall size of the EV market and serves as the primary in
     - Supports investment decisions.
 
 2. **Average Electric Range**
-Electric range is one of the most important purchase considerations for EV buyers.
-
-Tracking average range helps evaluate technological improvements across manufacturers.
+- Electric range is one of the most important purchase considerations for EV buyers.
+- Tracking average range helps evaluate technological improvements across manufacturers.
 
 **Business Value***
     - Measures battery technology advancement.
@@ -93,6 +92,7 @@ Comparing these categories reveals where the industry is heading.
 Every visualization was chosen to answer a specific business question.
 
 A. **EV Adoption by Model Year (Area Chart)**
+
 **Why this visualization?**
 - Management needs to understand whether EV adoption is accelerating or slowing over time.
 - The area chart effectively highlights long-term growth patterns.
@@ -106,6 +106,7 @@ The dashboard shows steady growth beginning in 2011, with significant accelerati
 
 
 B. **EV Distribution by State (Map)**
+
 **Why this visualization?**
 - Geographical analysis helps identify markets with strong EV penetration.
 - Maps reveal regional patterns much more effectively than tables.
@@ -122,6 +123,7 @@ Companies can prioritize these regions for dealership expansion, charging statio
 
 
 C. **Top 10 Manufacturers (Bar Chart)**
+
 **Why this visualization?**
 - Understanding manufacturer dominance helps evaluate competitive positioning.
 - A ranked bar chart enables quick comparison of market share.
