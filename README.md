@@ -64,27 +64,31 @@ Rather than displaying every available field, only business-relevant KPIs were s
 - This KPI measures the overall size of the EV market and serves as the primary indicator of adoption.
 
 **Business Value**
-    - Estimates market demand.
-    - Helps manufacturers evaluate market opportunity.
-    - Supports investment decisions.
+- Estimates market demand.
+- Helps manufacturers evaluate market opportunity.
+- Supports investment decisions.
+
+--
 
 2. **Average Electric Range**
 - Electric range is one of the most important purchase considerations for EV buyers.
 - Tracking average range helps evaluate technological improvements across manufacturers.
 
-**Business Value***
-    - Measures battery technology advancement.
-    - Indicates consumer value proposition.
-    - Supports product benchmarking.
+**Business Value**
+- Measures battery technology advancement.
+- Indicates consumer value proposition.
+- Supports product benchmarking.
+
+--- 
 
 3. **BEV vs PHEV Distribution**
-Battery Electric Vehicles represent fully electric transportation, while Plug-in Hybrid Vehicles still rely partly on fuel.
-Comparing these categories reveals where the industry is heading.
+- Battery Electric Vehicles represent fully electric transportation, while Plug-in Hybrid Vehicles still rely partly on fuel.
+- Comparing these categories reveals where the industry is heading.
 
 **Business Value**
-    - Identifies technology transition.
-    - Assesses customer preference.
-    - Helps manufacturers prioritize R&D investments
+- Identifies technology transition.
+- Assesses customer preference.
+- Helps manufacturers prioritize R&D investments
 
 ---
 
