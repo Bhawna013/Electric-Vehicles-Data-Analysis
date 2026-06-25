@@ -68,7 +68,7 @@ Rather than displaying every available field, only business-relevant KPIs were s
 - Helps manufacturers evaluate market opportunity.
 - Supports investment decisions.
 
---
+---
 
 2. **Average Electric Range**
 - Electric range is one of the most important purchase considerations for EV buyers.
@@ -107,7 +107,7 @@ How has EV adoption evolved over the years?
 **Insight**
 The dashboard shows steady growth beginning in 2011, with significant acceleration after 2018 and peak registrations in 2023. This trend reflects increasing consumer confidence, improved charging infrastructure, and supportive government policies.
 
-
+---
 
 B. **EV Distribution by State (Map)**
 
@@ -124,7 +124,7 @@ California leads EV registrations by a substantial margin, followed by Washingto
 **Business Impact**
 Companies can prioritize these regions for dealership expansion, charging stations, and marketing campaigns.
 
-
+---
 
 C. **Top 10 Manufacturers (Bar Chart)**
 
@@ -141,6 +141,7 @@ Tesla accounts for approximately 69% of total registered EVs, demonstrating sign
 **Business Impact**
 Emerging manufacturers must differentiate through pricing, battery performance, technology, or customer experience to compete effectively.
 
+---
 
 D. **CAFV Eligibility Analysis (Donut Chart)**
 **Why this visualization?**
@@ -156,6 +157,7 @@ Approximately 41.8% of vehicles qualify for CAFV incentives, while a large propo
 **Business Impact**
 Policy makers can use this information to evaluate incentive effectiveness and identify areas requiring better program awareness.
 
+---
 
 E. **Top Vehicle Models (Treemap)**
 **Why this visualization?**
